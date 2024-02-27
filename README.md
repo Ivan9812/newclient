@@ -1,6 +1,6 @@
-# reg-form-app
+# simon-the-game-app
 
-> Test Task №1
+> Test Task №2
 
 ## Build Setup
 
